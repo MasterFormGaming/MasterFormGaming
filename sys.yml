@@ -1,70 +1,14 @@
-
+- id: 487
   en: MasterFormGaming
-- id: 488
-
+- id: 1119
   en: MasterFormGaming
-- id: 1120
-
+- id: 1606
   en: MasterFormGaming
-- id: 1607
-  en: >-
-    With the help of two friends, use
-
-    the Drive Command to change
-
-    into MasterFormGaming.
-
-- id: 15310
-  en: Auto MasterFormGaming
-- id: 15311
-  en: >-
-    Automatically sets the Reaction
-
-    Command to MasterFormGaming in a pinch, if
-
-    MasterFormGaming is usable.
-
-- id: 17080
+  - id: 17080
   en: '"MasterFormGaming" Genie'
-
-- id: 17792
-  en: >-
-    MasterFormGaming Level. Time spent
-
-    transformed becomes longer, and
-
-    Abilities become stronger by leveling up.
-
-- id: 17802
-  en: >-
-    {:width 80}Each small drive orb gives 1 point of experience,
-
-    and one big drive orb gives 3 points of experience
-
-    for each drive prize obtained in MasterFormGaming.
-- id: 17803
-  en: >-
-    Experience necessary to level up.
-
-    The Level cap depends on the number of
-
-    Forms obtained.
-- id: 17804
-  en: >-
-    The Form gauge for MasterFormGaming.
-
-    The longer the gauge, the longer
-
-    the time spent transformed.
-- id: 17805
-
-  en: MasterFormGaming LV
-- id: 17837
-
-    MasterFormGaming Status. A Form that 
-
-    handles both the Keyblade and magic.
-
-    {:color #F0F00080}Drive points consumed: 4{:reset}
-- id: 19346
-  en: >-
+- id: 17196
+  en: MasterFormGaming
+- id: 17836
+  en: MasterFormGaming
+- id: 15310
+  en: AutoMasterFormGaming
